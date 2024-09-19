@@ -1,0 +1,25 @@
+{
+    "todos" : [
+        {
+            "id" : "as",
+            "title" : "Сделать дз",
+            "complited" : false,
+            "date" : "19.09.2024",
+            "time" : "19:00"
+        },
+        {
+            "id" : "dg",
+            "title" : "Купить продукты",
+            "complited" : true,
+            "date" : "20.09.2024",
+            "time" : "17:00"
+        },
+        {
+            "id" : "df",
+            "title" : "Пойти спать",
+            "complited" : false,
+            "date" : "19.09.2024",
+            "time" : "22:00"
+        }
+    ]
+}
